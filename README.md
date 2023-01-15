@@ -1,5 +1,5 @@
 # Candy Crush
-> A comeplete game made in x86 Assembly Language.
+> A complete game made in x86 Assembly Language.
 
 ## Features
 [ Use mouse to select candies ]
